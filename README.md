@@ -68,7 +68,14 @@ The Flask app takes user input and predicts energy generation.
 
 You can retrain the model using the provided dataset.
 
-##Project Demo video link : https://drive.google.com/file/d/1yNk_HwU6fxBCubl6OlmCyTdihG4euH0l/view?usp=sharing
+
+
+=======
+## 🎥 Project Demo Video
+
+👉 **[Watch the Demo Video](https://drive.google.com/file/d/1yNk_HwU6fxBCubI6OImCyTdihG4euH0I/view?usp=sharing)**
+
+
 
 👩‍💻 Author's
 

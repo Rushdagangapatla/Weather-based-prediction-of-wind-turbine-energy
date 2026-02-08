@@ -71,8 +71,7 @@ You can retrain the model using the provided dataset.
 
 ## 🎥 Project Demo Video
 
-👉 **[Watch the Demo Video](https://drive.google.com/file/d/1yNk_HwU6fxBCubI6OImCyTdihG4euH0I/view?usp=sharing)**
-
+https://drive.google.com/file/d/1yNk_HwU6fxBCubl6OlmCyTdihG4euH0l/view?usp=sharing
 
 
 ## 👩‍💻 Author's
